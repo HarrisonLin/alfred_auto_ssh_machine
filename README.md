@@ -2,9 +2,13 @@
 
 This tool will help you quickly connect multiple remote servers by iTerm Application. 
 
-###Development
+## Development
 
-Alfred
-AppleScript 
-Bash  
+* Alfred
+* AppleScript 
+* Bash  
+
+Detailed look at the gif
+
+
 
