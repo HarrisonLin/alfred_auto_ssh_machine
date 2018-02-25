@@ -2,11 +2,17 @@
 
 This tool will help you quickly connect multiple remote servers by iTerm Application. 
 
+
+Instructions for use look at the gif
+
+![](http://s3.mogucdn.com/mlcdn/c45406/180225_67ih44ia0jf4dc6kb4c3l3h5chb8l_1265x718.gif)
+
+
 ## Development
 
-* Alfred
-* AppleScript 
-* Bash  
+* Alfred : hotkey
+* AppleScript : Used for auto config iterm number and fast ssh machine
+* Bash : Used for hints
 
 ## How to use for you?
 
@@ -20,8 +26,3 @@ addResult "30" "relation" "relation" "连接im-relation-server线上机器" ""
     ```
 * 5. open alfred preferences , right click ,add utilites -> filter -> add your machine_key.   
   * ![](http://s3.mogucdn.com/mlcdn/c45406/180225_1kb36743llh4768h1e83i8475fk6b_1692x1054.jpg)
-
-Instructions for use look at the gif
-
-![](http://s3.mogucdn.com/mlcdn/c45406/180225_67ih44ia0jf4dc6kb4c3l3h5chb8l_1265x718.gif)
-
