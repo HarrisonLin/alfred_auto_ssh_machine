@@ -2,7 +2,7 @@
 
 This tool will help you quickly connect multiple remote servers by iTerm Application. 
 
-Instructions for use look at the gif
+How to use it ？ very easy
 
 ![](http://s3.mogucdn.com/mlcdn/c45406/180225_67ih44ia0jf4dc6kb4c3l3h5chb8l_1265x718.gif)
 
@@ -15,7 +15,7 @@ Instructions for use look at the gif
 
 ## How to use for you?
 
-* 1. install /bin/AutoSSH.alfredworkflow 
-* 2. trigger your alfred hotkey, After entering `ssh`, you can see the configuration prompt. ![](https://s3.mogucdn.com/mlcdn/c024f5/180422_7bc40i5jg4ak77c16i9li4939jcdd_627x449.png)
-* 3. choose `ssh参数配置修改` and click `Enter`, you can see config file, and update your machines info.![](https://s3.mogucdn.com/mlcdn/c024f5/180422_4hf97j7a8hg873j2jid29g2jk0595_1247x887.png)
-* 4. After the configuration file is modified, you can use it
+* 1. Double click `/bin/AutoSSH.alfredworkflow` file, Intall it.
+* 2. trigger your alfred hotkey, After entering `ssh`, you can see the configuration prompt. ![](https://s3.mogucdn.com/mlcdn/c024f5/180422_46732834444ab3h0734k2100clb54_1584x1278.png)
+* 3. choose `ssh参数配置修改` and click `Enter`, you can see config file, and update your machines info.![](https://s3.mogucdn.com/mlcdn/c024f5/180422_812ee8e8g70066c3f2lf55e8jgl12_1265x718.gif)
+* 4. After the configuration file is modified, you can use it![](https://s17.mogucdn.com/mlcdn/c024f5/180422_196g7ik6l6d80e2ajgg1bakiha2i7_1265x718.gif)
