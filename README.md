@@ -10,16 +10,12 @@ Instructions for use look at the gif
 ## Development
 
 * Alfred : hotkey
-* AppleScript : Used for auto config iterm number and fast ssh machine
-* Bash : Used for hints
+* AppleScript : Window allocation and help you auto ssh remote servers
+* Python2.7 : Parse config files and tips for you
 
 ## How to use for you?
 
 * 1. install /bin/AutoSSH.alfredworkflow 
-* 2. Entry Alfred Preferences Page, find AutoSSH and `Right Click / Open in Finder / cd src `, You will see the source file
-* 3. open fase_connect_machines.scpt file and modify it ![](http://s3.mogucdn.com/mlcdn/c45406/180225_77ia1e4cji7hheb7ida3jd26e0a60_2030x792.jpg)
-  * modify script_prefix for your command , online_machine and machine_key for your machine.
-* 4. open machines_config.sh file and modify it , add addResult method , it can tips while use alfred 
-  *  ``` addResult "30" "relation" "relation" "连接im-relation-server线上机器" "" ```
-* 5. open alfred preferences , right click ,add utilites -> filter -> add your machine_key.   
-  * ![](http://s3.mogucdn.com/mlcdn/c45406/180225_1kb36743llh4768h1e83i8475fk6b_1692x1054.jpg)
+* 2. trigger your alfred hotkey, After entering `ssh`, you can see the configuration prompt. ![](https://s3.mogucdn.com/mlcdn/c024f5/180422_7bc40i5jg4ak77c16i9li4939jcdd_627x449.png)
+* 3. choose `ssh参数配置修改` and click `Enter`, you can see config file, and update your machines info.![](https://s3.mogucdn.com/mlcdn/c024f5/180422_4hf97j7a8hg873j2jid29g2jk0595_1247x887.png)
+* 4. After the configuration file is modified, you can use it
